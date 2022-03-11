@@ -22,7 +22,7 @@ Greetings, readers! First of all, let me apologize for being absent for so long.
 
 Also, a lot of the cool stuff I’ve been working on has been highly secretive until recently – but now that our new flagship VMware Cloud Automation Services have been released, I’m free to start talking more about it publicly!
 
-![cloud assembly logo](https://www.vaficionado.com/wp-content/uploads/2019/02/cloud-assembly-150x150.png)![service broker logo](https://www.vaficionado.com/wp-content/uploads/2019/02/service-broker-full-color-150x150.png)![code stream logo](https://www.vaficionado.com/wp-content/uploads/2019/02/code-stream-150x150.png)
+![cloud assembly logo](/assets/images/2019/02/cloud-assembly-150x150.png)![service broker logo](/assets/images/2019/02/service-broker-full-color-150x150.png)![code stream logo](/assets/images/2019/02/code-stream-150x150.png)
 
 If you’re not already aware of it, VMware Cloud Automation Services (sometimes called CAS for short) is a SaaS-based Cloud Management platform, built from the ground up to enable multi-cloud consumption and pave over all those potholes you might hit as you drive the “Hybrid Highway.” If you’re interested, we are offering free 30-day trials at <https://cloud.vmware.com/cloud-assembly> – and I hope you check it out!
 
@@ -36,7 +36,7 @@ Check it out, and please leave any feedback either here or on GitHub.
 
 This message has been brought to you by a delicious Single Malt Miyagikyo I recently had the opportunity to sample at the home of another outstanding community member, none other than the one and only [Virtual Hobbit](https://virtualhobbit.com/) – smooth and easy drinking, and a most gentlemanly thing to have on hand for me as he doesn’t like whisky himself.
 
-![miyakikyo whisky](https://www.vaficionado.com/wp-content/uploads/2019/02/IMG_7599-768x1024.jpeg)
+![miyakikyo whisky](/assets/images/2019/02/IMG_7599-768x1024.jpeg)
 
 Cheers!
 

@@ -20,7 +20,7 @@ This past week, I received a call from my manager informing me that this work ha
 
 I’m also reminded that none of this would have been possible without all the great and honest feedback from my customers and the various teams throughout VMware that I work with every day. It’s with that that I send out a thank you to all my peers and customers for placing your trust in me. In return, you have my commitment that I will continue to provide the best possible service and support that I can!
 
-[![Track_Seven_Panic_IPA](https://www.vaficionado.com/wp-content/uploads/2015/07/IMG_5770-300x300.jpg)](https://www.vaficionado.com/wp-content/uploads/2015/07/IMG_5770.jpg)
+[![Track_Seven_Panic_IPA](/assets/images/2015/07/IMG_5770-300x300.jpg)](/assets/images/2015/07/IMG_5770.jpg)
 
 Of course, it wouldn’t be a complete post without some kind of celebratory beverage. This photo was taken at a local establishment just a few minutes after I received the good news. Track Seven’s Panic IPA is a stellar brew, made with Amarillo and Simcoe hops front and center, rather than the more common Citra and Cascade varieties. The result is a high-hop flavor (70 IBU) without the face-shredding pucker factor. Lots of citrus and floral notes explode with every sip. Don’t let the can fool you, this is a top-shelf local craft beer. Check out [Track Seven ](https://track7brewing.com/)next time you visit me in Sacramento!
 

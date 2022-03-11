@@ -19,7 +19,7 @@ tags:
 
 2018 is a special year for me. It marks the 4-year anniversary of my career with VMware – the best company I’ve ever worked for, and arguably one of the best in the world. I was so pleased to come into my office a few weeks ago and find my beautiful 4-year VASA cubes waiting for me – as both someone who bleeds VMware green and blue and as a total contemporary art nerd, I’d really been looking forward to these.
 
-![Career-With-VMware-VMware_VASA_Cubes](https://www.vaficionado.com/wp-content/uploads/2018/03/IMG_4072-1024x768.jpg)
+![Career-With-VMware-VMware_VASA_Cubes](/assets/images/2018/03/IMG_4072-1024x768.jpg)
 
 And as I enter my 5th year with this incredible, visionary organization and look back on my time here, I’m pleased to announce that I’ve been honored with yet another new opportunity.
 
@@ -50,6 +50,6 @@ I owe so much to so many people for helping me on this journey.
 
 And now, as a tribute to Grant (who brought me the bottle all the way from Oz,) I raise a glass to you all. Here’s to the next 30 years at VMware. May they be as full of adventure as the last 4.
 
-![Career-With-VMware-Nikka_From_The_Barrel](https://www.vaficionado.com/wp-content/uploads/2018/03/IMG_4133-768x1024.jpg)
+![Career-With-VMware-Nikka_From_The_Barrel](/assets/images/2018/03/IMG_4133-768x1024.jpg)
 
 <div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Reflections+on+a+Career+with+VMware)</div></div>

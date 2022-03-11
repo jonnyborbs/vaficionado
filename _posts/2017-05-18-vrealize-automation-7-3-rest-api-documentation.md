@@ -50,6 +50,6 @@ So, while there are tons of amazing new capabilities in our new flagship release
 
 As always, this post was brought to you by Tropikalia IPA by White Stork Brewing Company. It’s pretty much my go-to while I’m working with our amazing vRA engineers in Sofia.
 
-![tropikalia_ipa](https://www.vaficionado.com/wp-content/uploads/2017/05/tropikalia_ipa-768x1024.jpg)
+![tropikalia_ipa](/assets/images/2017/05/tropikalia_ipa-768x1024.jpg)
 
 <div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=vRealize+Automation+7.3+REST+API+Documentation)</div></div>

@@ -55,13 +55,13 @@ Here’s where the good news starts. vRealize Automation has been designed to ac
 
 - **Entitlements** – Finally, the Entitlement is a way to refine exactly what a user of the platform can see and do in the catalog and with their deployed items. And, the actions granted in an Entitlement can be tied in at any point to vRA’s multi-level Approval engine to add management oversight and governance if desired. So, for example, a Java developer could be permitted to deploy only Linux servers with an Eclipse IDE pre-installed, while an MSSQL DBA could deploy only Windows servers with SQL Server installed, pending his manager’s approval. Both could be permitted to power cycle their machines, while only the Java developer might have access to destroy his system. These are just examples – an Entitlement can be configured with virtually limitless combinations of actions. abilities and approvals.
 
-![vRA_MT_Example](https://www.vaficionado.com/wp-content/uploads/2016/02/vRA_MT_Example.png)
+![vRA_MT_Example](/assets/images/2016/02/vRA_MT_Example.png)
 
 So, in our scenario, Isaac would use the **Default vRA Tenant** for his organization – since it’s all the same company, no special branding is needed. He would then create a **Fabric Group** that encompasses the appropriate computing and storage capacity for his departments – whether public cloud based like vCloud Air or private cloud, like an on-premise vSphere environment. Then, he would make two **Business Groups** for the Finance and Development departments – each with a **Reservation** specifying how much of the fabric capacity the department could consume. Finally, he would configure **Entitlements** that determine which users/Business Groups can deploy and manage which types of **Blueprints**. The image above illustrates that while in some cases Blueprints may be shared, the ability to manage workloads provisioned from those shared Blueprints has been limited by the Business Group.
 
 For example, in the scenario pictured, Developers can provision Blueprints 1, 2, and 3 – and Finance users can provision Blueprints 3 and 4. But each resulting object belongs solely to the Business Group that created it – the shared nature of the original Blueprint has no impact on the provisioned server.
 
-![vRA_Isolation_Layout](https://www.vaficionado.com/wp-content/uploads/2016/02/vRA_Isolation_Layout.png)
+![vRA_Isolation_Layout](/assets/images/2016/02/vRA_Isolation_Layout.png)
 
 The segregation outlined in this scenario is **more than sufficient** to meet the multitenancy requirements of virtually every customer. And when you add the incredible power of NSX Micro-Segmentation to your environment, the levels of isolation you can achieve between deployed machines, network segments, organizational units, etc is simply unparalleled.
 
@@ -73,7 +73,7 @@ I hope this post has helped to clear up some of the confusion around Enterprise 
 
 Please feel free to leave any feedback you might have in the comments by clicking “Leave a Comment” at the top of the article. I’m very interested in hearing what others think about this topic.
 
-![Brewmaster Jack Garden of Grass](https://www.vaficionado.com/wp-content/uploads/2016/02/Garden_Of_Grass-768x1024.jpg)
+![Brewmaster Jack Garden of Grass](/assets/images/2016/02/Garden_Of_Grass-768x1024.jpg)
 
 And of course… This post was brought to you by Brewmaster Jack’s Garden of Grass American IPA. This fantastic fresh hop beer sports a rare and “experimental” hop varietal known as HBC 452, which imparts a great and juicy watermelon flavor that mixes with the distinct piney-ness of Simcoe hops.
 

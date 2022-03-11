@@ -24,14 +24,14 @@ Inspired by a post by Michael White at <https://notesfrommwhite.net/2016/11/11/w
 
 As someone who travels pretty much endlessly, the items in this bag have been refined over many trips to be maximally useful with minimum bulk. Everything must have a purpose or there’s just no room for it.
 
-![SaddlebackOriginalBriefcase](https://www.vaficionado.com/wp-content/uploads/2016/11/SaddlebackOriginalBriefcase-1024x768.jpg)  
+![SaddlebackOriginalBriefcase](/assets/images/2016/11/SaddlebackOriginalBriefcase-1024x768.jpg)  
 First up is the bag itself. I see this leather beast as a long time friend and companion – it’s toured the world with me and I can’t imagine a journey without it. It’s a Saddleback Medium Original Briefcase, and yes – it’s heavy as hell. Weighs almost 8lbs empty. My one vice when it comes to the “pack light” mentality.
 
-![InsideBriefcase](https://www.vaficionado.com/wp-content/uploads/2016/11/InsideBriefcase-1024x768.jpg)
+![InsideBriefcase](/assets/images/2016/11/InsideBriefcase-1024x768.jpg)
 
 The bag is organized into two main compartments, with a few small pockets inside. It’s nowhere near as full as it looks; plenty of room for more if and when necessary. Usually I’ll wad up a sweatshirt or something in there too.
 
-![BriefcaseContents](https://www.vaficionado.com/wp-content/uploads/2016/11/BriefcaseContents-1024x768.jpg)
+![BriefcaseContents](/assets/images/2016/11/BriefcaseContents-1024x768.jpg)
 
 Inside the bag are the following items:
 
@@ -49,11 +49,11 @@ Inside the bag are the following items:
 - Leather notebook cover with Field Notes notebook
 - Kindle Paperwhite
 
-![iPadPro](https://www.vaficionado.com/wp-content/uploads/2016/11/iPadPro-1024x768.jpg)
+![iPadPro](/assets/images/2016/11/iPadPro-1024x768.jpg)
 
 The iPad is a mini-computer in and of itself, thanks to the keyboard case, Pencil and VMware Horizon 🙂
 
-![CablesAndDongles](https://www.vaficionado.com/wp-content/uploads/2016/11/CablesAndDongles-1024x768.jpg)
+![CablesAndDongles](/assets/images/2016/11/CablesAndDongles-1024x768.jpg)
 
 And inside the cable and dongle bag are the following:
 
@@ -67,7 +67,7 @@ And inside the cable and dongle bag are the following:
 
 That’s pretty much it! Thanks again to Michael (follow him [@mwVme](https://twitter.com/mwVme)) for the fun idea.
 
-![SaisonDupontBrewersGold](https://www.vaficionado.com/wp-content/uploads/2016/11/SaisonDupontBrewersGold.jpg)
+![SaisonDupontBrewersGold](/assets/images/2016/11/SaisonDupontBrewersGold.jpg)
 
 And, of course – this post was brought to you by Saison Dupont’s Cuvee Dry Hopping series. A unique yearly spin on the classic Belgian Farmhouse that allows the brewer to experiment with dry hopping. This year’s version used Brewer’s Gold hops and came out delicious – sweet and bitter with that famous Saison Dupont brettanomyces tang.
 
