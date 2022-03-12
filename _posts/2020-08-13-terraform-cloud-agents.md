@@ -50,11 +50,11 @@ An agent pool is a logical grouping of agents that work together to handle reque
 
 ![create a token description](/vaficionado/assets/images/2020/11/03_token_description.png)Terraform Cloud will automatically generate a series of environment variables and commands you can use in your Docker environment as well. We’ll use these in a minute; keep this dialog visible on your browser and flip to a terminal environment. Remember that you never get to see this token again, so don’t close this or you’ll have to start over.
 
-![](/vaficionado/assets/images/2020/11/04_token_details-852x1024.png)Now that you’re in your terminal, make sure you have Docker installed. I’m personally on a Mac using Homebrew, so in this case I need to ensure I have `docker` and `docker-machine` installed. We’ll start by running `docker-machine start default` to bring up a basic machine to execute containers.
+![token details](/vaficionado/assets/images/2020/11/04_token_details-852x1024.png)Now that you’re in your terminal, make sure you have Docker installed. I’m personally on a Mac using Homebrew, so in this case I need to ensure I have `docker` and `docker-machine` installed. We’ll start by running `docker-machine start default` to bring up a basic machine to execute containers.
 
 We’ll follow that quickly with `eval "$(docker-machine env default)"` to ensure that my interactive shell can interact with that running machine in the background.
 
-<figure class="wp-block-image size-large is-resized">![docker-machine start commands](/vaficionado/assets/images/2020/08/docker-machine-start-1.png)Now, I’m going to use an `env.list` file to contain all my environment variables for this example. There are lots of different ways to handle environment variables for Docker, and you can pick whatever fits your architecture. You can export variables directly into the environment, use a file as I will here, or put them right on the command line (I don’t recommend this though, as your token will end up visible in process lists) if you like.
+![docker-machine start commands](/vaficionado/assets/images/2020/08/docker-machine-start-1.png)Now, I’m going to use an `env.list` file to contain all my environment variables for this example. There are lots of different ways to handle environment variables for Docker, and you can pick whatever fits your architecture. You can export variables directly into the environment, use a file as I will here, or put them right on the command line (I don’t recommend this though, as your token will end up visible in process lists) if you like.
 
 Here’s what `env.list` looks like on my machine. You can see I’ve exported the one required variable, `TFC_AGENT_TOKEN` and set it to the token copied from Terraform Cloud above. I’ve also set the optional `TFC_AGENT_NAME` variable so there will be a friendly name displayed in my agents list later on. The `TFC_ADDRESS` variable isn’t required, and this URL is actually the default anyway. And finally, the `TFC_AGENT_LOG_LEVEL` is set to `DEBUG`. This lets you see a bunch more information about the agent’s work, and is helpful but verbose. Once you’ve set at least your token and name, save and exit your editor.
 
@@ -104,4 +104,6 @@ To learn more about Terraform Cloud Agents, you can visit the documentation page
 
 And, of course, it wouldn’t be right to end without some kind of adult beverage – so today’s post is brought to you by [Urban Roots Brewing](https://www.urbanrootsbrewing.com/)‘s Floofster – an adorable German-style Hefeweizen with the name I can’t stop saying. Prost!
 
-<figure class="wp-block-image size-large is-resized">![urban roots brewing's floofster](/vaficionado/assets/images/2020/08/urban-roots-floofster-768x1024.jpeg)<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Terraform+Cloud+Agents)</div></div>
+[urban roots brewing's floofster](/vaficionado/assets/images/2020/08/urban-roots-floofster-768x1024.jpeg)
+
+<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Terraform+Cloud+Agents)</div></div>
