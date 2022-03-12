@@ -20,4 +20,4 @@ Heading home for the holidays and managed a last-minute first class upgrade. Wha
 
 Happy holidays and safe travels to all my colleagues, friends, followers, readers and customers.
 
-[![IMG_4550.JPG](/vaficionado/assets/images/2014/12/IMG_4550.jpg)](/vaficionado/assets/images/2014/12/IMG_4550.jpg)
+[![IMG_4550.JPG](/assets/images/2014/12/IMG_4550.jpg)](/assets/images/2014/12/IMG_4550.jpg)

@@ -27,16 +27,16 @@ It didn’t take long to figure this one out. I don’t know how valuable it wil
 
 Basically, we started with this. A simple button on the Apple Watch that starts a [Workflow](https://itunes.apple.com/us/app/workflow-powerful-automation/id915249334?mt=8) which is then handed off to my iPhone.
 
-[![Apple_Watch_Workflow_Red](/vaficionado/assets/images/2015/04/Apple_Watch_Workflow_Red-1024x768.jpg)](/vaficionado/assets/images/2015/04/Apple_Watch_Workflow_Red.jpg)
+[![Apple_Watch_Workflow_Red](/assets/images/2015/04/Apple_Watch_Workflow_Red-1024x768.jpg)](/assets/images/2015/04/Apple_Watch_Workflow_Red.jpg)
 
-[![Apple_Watch_Workflow_Screenshot](/vaficionado/assets/images/2015/04/Apple_Watch_Workflow_Screenshot.png)](/vaficionado/assets/images/2015/04/Apple_Watch_Workflow_Screenshot.png)
+[![Apple_Watch_Workflow_Screenshot](/assets/images/2015/04/Apple_Watch_Workflow_Screenshot.png)](/assets/images/2015/04/Apple_Watch_Workflow_Screenshot.png)
 
-[![Workflow_Running_on_Apple_Watch](/vaficionado/assets/images/2015/04/Workflow_Running_on_Apple_Watch.png)](/vaficionado/assets/images/2015/04/Workflow_Running_on_Apple_Watch.png)  
+[![Workflow_Running_on_Apple_Watch](/assets/images/2015/04/Workflow_Running_on_Apple_Watch.png)](/assets/images/2015/04/Workflow_Running_on_Apple_Watch.png)  
 (Edit: I literally just this second learned how to screenshot on the Watch, so I have included both images. Just because)
 
 The iPhone then connects via SSH to a Linux host running [CloudClient](https://developercenter.vmware.com/tool/cloudclient/3.2.0) and runs a deployment script I wrote
 
-[![Workflow_Details_on_iPhone](/vaficionado/assets/images/2015/04/Workflow_Details_on_iPhone-576x1024.png)](/vaficionado/assets/images/2015/04/Workflow_Details_on_iPhone.png)
+[![Workflow_Details_on_iPhone](/assets/images/2015/04/Workflow_Details_on_iPhone-576x1024.png)](/assets/images/2015/04/Workflow_Details_on_iPhone.png)
 
 The script is quite basic and is as follows:
 
@@ -54,14 +54,14 @@ echo "---------------------------------------------" >> vRA-Deploy.log
 
 This uses the auto-login configuration of CloudClient to connect to my vRealize Automation instance and deploy a simple CentOS blueprint from my catalog.
 
-[![Cloud_Client_Log](/vaficionado/assets/images/2015/04/Cloud_Client_Log.png)](/vaficionado/assets/images/2015/04/Cloud_Client_Log.png)  
+[![Cloud_Client_Log](/assets/images/2015/04/Cloud_Client_Log.png)](/assets/images/2015/04/Cloud_Client_Log.png)  
 (Click image for a larger version)
 
 The details of the deployment come up in the vRA-Deploy.log file…
 
-[![vRealize_Automation_Apple_Watch_Request_Successful](/vaficionado/assets/images/2015/04/vRealize_Automation_Apple_Watch_Request_Successful.png)](/vaficionado/assets/images/2015/04/vRealize_Automation_Apple_Watch_Request_Successful.png)
+[![vRealize_Automation_Apple_Watch_Request_Successful](/assets/images/2015/04/vRealize_Automation_Apple_Watch_Request_Successful.png)](/assets/images/2015/04/vRealize_Automation_Apple_Watch_Request_Successful.png)
 
-[![Deployed_Workload_in_vSphere](/vaficionado/assets/images/2015/04/Deployed_Workload_in_vSphere.png)](/vaficionado/assets/images/2015/04/Deployed_Workload_in_vSphere.png)
+[![Deployed_Workload_in_vSphere](/assets/images/2015/04/Deployed_Workload_in_vSphere.png)](/assets/images/2015/04/Deployed_Workload_in_vSphere.png)
 
 And voila! I’ve just provisioned a VM from my watch. The future is now, people.
 

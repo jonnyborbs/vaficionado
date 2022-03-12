@@ -28,14 +28,14 @@ First, enter the **Design** tab and edit the Blueprint you wish to modify by cli
 
 Then, just look for the **Gear** icon next to the Blueprint name and click it:
 
-[![Select_Gear_Icon](/vaficionado/assets/images/2016/01/Select_Gear_Icon.png)](/vaficionado/assets/images/2016/01/Select_Gear_Icon.png)
+[![Select_Gear_Icon](/assets/images/2016/01/Select_Gear_Icon.png)](/assets/images/2016/01/Select_Gear_Icon.png)
 
 This will bring you to the Blueprint Settings dialog, where you can modify the name, description, NSX settings, lease times, etc.
 
-[![Blueprint_Settings](/vaficionado/assets/images/2016/01/Blueprint_Settings.png)](/vaficionado/assets/images/2016/01/Blueprint_Settings.png)
+[![Blueprint_Settings](/assets/images/2016/01/Blueprint_Settings.png)](/assets/images/2016/01/Blueprint_Settings.png)
 
 This post was brought to you by the St. Supery 2009 Dollarhide Petit Verdot. Dark, almost inky black and full of vanilla oak and bold tannins, its multi-layer complexity goes great with a Converged Blueprint.
 
-[![2009_Petit_Verdot](/vaficionado/assets/images/2016/01/2009_Petit_Verdot-1024x768.jpg)](/vaficionado/assets/images/2016/01/2009_Petit_Verdot.jpg)
+[![2009_Petit_Verdot](/assets/images/2016/01/2009_Petit_Verdot-1024x768.jpg)](/assets/images/2016/01/2009_Petit_Verdot.jpg)
 
 Happy automating!

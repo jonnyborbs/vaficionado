@@ -55,4 +55,4 @@ That’s all for now – we’ll see some of you in a few weeks at VMworld in Ba
 
 Now if you’ll excuse me, my grill is hot and these rib-eyes are calling my name. Paired with a 2011 Miner Oakville Cabernet, I don’t think I can wait much longer.
 
-[![Miner_Oakville_2011_Cab_And_Rib_Eyes](/vaficionado/assets/images/2015/09/Miner_Oakville_2011_Cab_And_Rib_Eyes-1024x768.jpg)](/vaficionado/assets/images/2015/09/Miner_Oakville_2011_Cab_And_Rib_Eyes.jpg)
+[![Miner_Oakville_2011_Cab_And_Rib_Eyes](/assets/images/2015/09/Miner_Oakville_2011_Cab_And_Rib_Eyes-1024x768.jpg)](/assets/images/2015/09/Miner_Oakville_2011_Cab_And_Rib_Eyes.jpg)

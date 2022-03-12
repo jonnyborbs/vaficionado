@@ -30,6 +30,6 @@ That pretty much sums up my impressions after the first year. I’m looking forw
 
 Incidentally, this bout of lucidity was brought to you by a velvety 2010 Suisun Valley Petit Sirah from Mangels Vineyards. This inky-dark wine has a big, bold mouth feel with tons of fruit on the pallet and a finish that seems to go on forever. The Suisun Valley is a scrappy young appellation that produces some incredible and somewhat undervalued fruit, one which has the potential to be an increasingly major player over the coming years. I could draw an obvious comparison between enology and the software industry right now, but again… Nah. You got this.
 
-[![Mangels Vineyards 2010 Petit Sirah](/vaficionado/assets/images/2015/02/IMG_4882-1024x768.jpg)](/vaficionado/assets/images/2015/02/IMG_4882.jpg)
+[![Mangels Vineyards 2010 Petit Sirah](/assets/images/2015/02/IMG_4882-1024x768.jpg)](/assets/images/2015/02/IMG_4882.jpg)
 
 Here’s to the future.

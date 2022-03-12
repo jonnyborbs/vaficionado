@@ -28,10 +28,10 @@ That said, there’s good news for administrators who have both the vRealize Aut
 
 Before diving into implementation details, here are a couple of quick screenshots of what you can expect after deploying the new management pack and plugins.
 
-[![vRealize Automation Environment View in vRealize Operations](/vaficionado/assets/images/2015/01/vRA-vROps-EnvironmentList.png)](/vaficionado/assets/images/2015/01/vRA-vROps-EnvironmentList.png)  
+[![vRealize Automation Environment View in vRealize Operations](/assets/images/2015/01/vRA-vROps-EnvironmentList.png)](/assets/images/2015/01/vRA-vROps-EnvironmentList.png)  
 (Click the above image for a larger version)
 
-[![vRealize Automation Inventory Tree View in vRealize Operations](/vaficionado/assets/images/2015/01/vRA-Tree.png)](/vaficionado/assets/images/2015/01/vRA-Tree.png)
+[![vRealize Automation Inventory Tree View in vRealize Operations](/assets/images/2015/01/vRA-Tree.png)](/assets/images/2015/01/vRA-Tree.png)
 
 As you can see, it monitors the following high-level capabilities and their sub components :
 
@@ -43,7 +43,7 @@ As you can see, it monitors the following high-level capabilities and their sub 
 
 Here’s today’s obligatory wine tie-in. Given to a friend when he departed the employ of [Viansa](https://www.viansa.com/), this bottle of 2005 Ossidiana was signed by his friends and co-workers from all aspects of the winery. It’s also a finely blended Bordeaux – representing the perfect marriage of the 5 noble French grapes. The blend is proprietary and not disclosed, but it was clearly more than a little Cab. All sorts of grapes, styles, workers, techniques and technology coming together to produce one harmonious and easily enjoyable product. Can you see why I was reminded of this exciting new marriage of Automation and Management when we opened this bottle last night?
 
-[![IMG_4734](/vaficionado/assets/images/2015/01/IMG_4734-517x1024.jpg)](/vaficionado/assets/images/2015/01/IMG_4734.jpg)
+[![IMG_4734](/assets/images/2015/01/IMG_4734-517x1024.jpg)](/assets/images/2015/01/IMG_4734.jpg)
 
 All that aside, let’s get into some of the nuts and bolts of implementing this new connection.
 
@@ -63,7 +63,7 @@ From there, you will log into your vRealize Hyperic server as an administrator w
 
 Now, if you are currently running vRealize Hyperic 5.8.4, you may see some existing custom vRealize XML Plugins already present in the environment. These need to be removed first, and look like the following. If you don’t see these plugins, skip this step.
 
-[![vRealize Hyperic XML Plugins for vRealize Monitoring](/vaficionado/assets/images/2015/01/vR-XML-Hyperic-1024x169.png)](/vaficionado/assets/images/2015/01/vR-XML-Hyperic.png)  
+[![vRealize Hyperic XML Plugins for vRealize Monitoring](/assets/images/2015/01/vR-XML-Hyperic-1024x169.png)](/assets/images/2015/01/vR-XML-Hyperic.png)  
 (Click the above image for a larger version)
 
 To delete them, simply select the **Checkbox** to the left of each plugin and select **Delete Selected Plugin(s)** from the bottom left corner. This may take some time to complete.
@@ -72,27 +72,27 @@ Now click the **Add/Update Plugin(s)** button in the lower right corner and uplo
 
 After that’s complete, you should see something like the following image. Notice the two new custom JAR plugins, highlighted in red.
 
-[![vRealize Hyperic JAR Plugins for vRealize Automation](/vaficionado/assets/images/2015/01/HQPlugins-1024x522.png)](/vaficionado/assets/images/2015/01/HQPlugins.png)  
+[![vRealize Hyperic JAR Plugins for vRealize Automation](/assets/images/2015/01/HQPlugins-1024x522.png)](/assets/images/2015/01/HQPlugins.png)  
 (Click the above image for a larger version)
 
 Now, switch over to your vRealize Operations console. Log in with a user who has the administrative rights to update solutions. Navigate to the **Administration** tab and select **Solutions** from the navigation pane. Click the **Green +** (Add) in the upper left corner of the solutions pane. Follow the wizard that is produced to install or update the solution.
 
-[![vRealize Operations Solutions](/vaficionado/assets/images/2015/01/vROps-Solutions.png)](/vaficionado/assets/images/2015/01/vROps-Solutions.png)
+[![vRealize Operations Solutions](/assets/images/2015/01/vROps-Solutions.png)](/assets/images/2015/01/vROps-Solutions.png)
 
 If you already had the vRealize Hyperic solution installed and working, you’re done with this part! If this is your first time installing the solution, you will need to configure the adapter instance. To do so, highlight the **vRrealize Hyperic** solution and click on the **Gears** icon in the upper left. Fill in the requested details about your vRealize Hyperic server as seen here, of course using your own settings. Test and save the settings.
 
-[![vRealize Hyperic Adapter Configuration](/vaficionado/assets/images/2015/01/HypericConfig.png)](/vaficionado/assets/images/2015/01/HypericConfig.png)
+[![vRealize Hyperic Adapter Configuration](/assets/images/2015/01/HypericConfig.png)](/assets/images/2015/01/HypericConfig.png)
 
 Now all you need to do is wait for vRealize Hyperic to auto-discover your new services. Check your Hyperic dashboard after a few minutes and import them; after a few more minutes they will start appearing in your vRealize Operations Manager.
 
 You can confirm which vRealize Hyperic metrics are flowing into vRealize Operations by logging into it with an administrative account, then navigating to the **Administration** tab and **Environment Overview**. Expand the **Adapter Instances** and then your **Hyperic Adapter Instance**. You will see the name of the Hyperic instance that you configured in the last step – select it and view the related metrics.
 
-[![vRealize Operations Manager Environment Overview](/vaficionado/assets/images/2015/01/EnvironmentOverview-1024x535.png)](/vaficionado/assets/images/2015/01/EnvironmentOverview.png)  
+[![vRealize Operations Manager Environment Overview](/assets/images/2015/01/EnvironmentOverview-1024x535.png)](/assets/images/2015/01/EnvironmentOverview.png)  
 (Click the above image for a larger version)
 
 That’s all there is to it – now you can navigate to your vRealize Operations **Content** tab and view the **vRealize Automation** inventory tree.
 
-[![vRealize Operations Inventory Trees](/vaficionado/assets/images/2015/01/InventoryTrees.png)](/vaficionado/assets/images/2015/01/InventoryTrees.png)
+[![vRealize Operations Inventory Trees](/assets/images/2015/01/InventoryTrees.png)](/assets/images/2015/01/InventoryTrees.png)
 
 From here you can explore the related tabs – environment, analysis, troubleshooting, etc – and begin leveraging the wealth of new metrics at your fingertips.
 

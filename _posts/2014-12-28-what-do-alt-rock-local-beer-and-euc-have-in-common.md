@@ -19,7 +19,7 @@ Normally I wouldn’t have much insight on the subject of EUC (End-User Computin
 
 We haven’t been home in few years, and it was my first chance to talk to some of the family in a while. We decided to go out one night to see my cousin Drew play with one of his bands, The Loveless. Here’s an action shot of Drew on bass.
 
-[![IMG_4569.JPG](/vaficionado/assets/images/2014/12/IMG_4569.jpg)](/vaficionado/assets/images/2014/12/IMG_4569.jpg)
+[![IMG_4569.JPG](/assets/images/2014/12/IMG_4569.jpg)](/assets/images/2014/12/IMG_4569.jpg)
 
 This performance was paired with two amazing local beers – Loganberry Wit by [Resurgence](https://www.resurgencebrewing.com/), and [Live Pale Ale](https://www.stbcbeer.com/live-pale-ale-bottle-conditioned/) by Southern Tier. The Live Pale Ale is just a beautiful American style pale ale, with perfect hop character. But the Loganberry Wit was a real treat – those of us who grew up in the Buffalo area already know this, but for the uninformed, Loganberry is a berry widely used for punch-like drinks throughout Western New York and is a true regional flavor.
 
