@@ -5,6 +5,7 @@ date: '2014-12-23T14:53:41-08:00'
 author: jon
 layout: page
 guid: 'http://vaficionado.com/?page_id=2'
+image: /assets/images/cropped-va-header.jpg
 ---
 
 So, a little about me. Those who know me know I now tend to subscribe to the notion of proving oneself by delivering value and results, rather than listing certifications and titles. But as I reflect on a career that’s taken a very unusual route, I realize at least discussing how I came to be where I am might be really helpful for others looking at a similarly a non traditional career path.
