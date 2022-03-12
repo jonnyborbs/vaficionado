@@ -4,6 +4,7 @@ title: 'vIDM Attribute Mapping in vRA 7'
 date: '2016-02-25T10:54:31-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=385'
 permalink: /2016/02/vidm-attribute-mapping-in-vra-7/
 categories:
@@ -68,5 +69,3 @@ This post was brought to you by Terrapin Beer Co’s Poivre Potion, a very uniqu
 ![Terrapin_Poivre_Potion](/vaficionado/assets/images/2016/02/Terrapin_Poivre_Potion-225x300.jpg)
 
 Happy automating!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=vIDM+Attribute+Mapping+in+vRA+7)</div></div>

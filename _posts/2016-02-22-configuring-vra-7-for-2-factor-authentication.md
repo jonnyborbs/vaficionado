@@ -4,6 +4,7 @@ title: 'Configuring vRA 7 for 2 Factor Authentication'
 date: '2016-02-22T12:14:32-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=321'
 permalink: /2016/02/configuring-vra-7-for-2-factor-authentication/
 categories:
@@ -358,5 +359,3 @@ This post was brought to you by Breakside Brewery’s Salted Caramel Stout, whic
 Happy automating!
 
 Special thanks to Ed Kaczmarek for contributing to this guide – follow him at <span class="s1">@edkaczmarek!</span>
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Configuring+vRA+7+for+2+Factor+Authentication)</div></div>

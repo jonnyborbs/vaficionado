@@ -4,6 +4,7 @@ title: 'Perfect chance for a starting post'
 date: '2014-12-24T06:57:53-08:00'
 author: jon
 layout: post
+/vaficionado/assets/images/
 guid: 'http://vaficionado.com/?p=14'
 permalink: /2014/12/perfect-chance-for-a-starting-post/
 categories:
@@ -19,6 +20,4 @@ Heading home for the holidays and managed a last-minute first class upgrade. Wha
 
 Happy holidays and safe travels to all my colleagues, friends, followers, readers and customers.
 
-[![IMG_4550.JPG](https://vaficionado.com/wp-content/uploads/2014/12/IMG_4550.jpg)](https://vaficionado.com/wp-content/uploads/2014/12/IMG_4550.jpg)
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Perfect+chance+for+a+starting+post)</div></div>
+[![IMG_4550.JPG](/vaficionado/assets/images/2014/12/IMG_4550.jpg)](/vaficionado/assets/images/2014/12/IMG_4550.jpg)

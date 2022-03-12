@@ -4,6 +4,7 @@ title: 'vRealize Operations Manager Content Pack for Log Insight'
 date: '2015-03-30T16:36:42-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=166'
 permalink: /2015/03/vrealize-operations-manager-content-pack-for-log-insight/
 categories:
@@ -245,5 +246,3 @@ It’s also worth noting that if you had previously configured vROps 6.0.x to se
 [![vRealize_Operations_Edit_Logger_Configuration](/vaficionado/assets/images/2015/03/vRealize_Operations_Edit_Logger_Configuration.png)](/vaficionado/assets/images/2015/03/vRealize_Operations_Edit_Logger_Configuration.png)
 
 Cheers, and happy analyzing!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=vRealize+Operations+Manager+Content+Pack+for+Log+Insight)</div></div>

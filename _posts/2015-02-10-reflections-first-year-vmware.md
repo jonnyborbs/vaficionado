@@ -4,6 +4,7 @@ title: 'Reflections on my first year at VMware'
 date: '2015-02-10T06:57:08-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=82'
 permalink: /2015/02/reflections-first-year-vmware/
 categories:
@@ -32,5 +33,3 @@ Incidentally, this bout of lucidity was brought to you by a velvety 2010 Suisun 
 [![Mangels Vineyards 2010 Petit Sirah](/vaficionado/assets/images/2015/02/IMG_4882-1024x768.jpg)](/vaficionado/assets/images/2015/02/IMG_4882.jpg)
 
 Here’s to the future.
-
-<div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Reflections+on+my+first+year+at+VMware)</div></div>

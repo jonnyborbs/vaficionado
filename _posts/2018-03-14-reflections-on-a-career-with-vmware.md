@@ -4,6 +4,7 @@ title: 'Reflections on a Career with VMware'
 date: '2018-03-14T18:43:48-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=551'
 permalink: /2018/03/reflections-on-a-career-with-vmware/
 categories:
@@ -51,5 +52,3 @@ I owe so much to so many people for helping me on this journey.
 And now, as a tribute to Grant (who brought me the bottle all the way from Oz,) I raise a glass to you all. Here’s to the next 30 years at VMware. May they be as full of adventure as the last 4.
 
 ![Career-With-VMware-Nikka_From_The_Barrel](/vaficionado/assets/images/2018/03/IMG_4133-768x1024.jpg)
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Reflections+on+a+Career+with+VMware)</div></div>

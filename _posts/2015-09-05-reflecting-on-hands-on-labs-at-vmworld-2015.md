@@ -4,6 +4,7 @@ title: 'Reflecting on Hands-On Labs at VMworld 2015'
 date: '2015-09-05T20:26:32-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=269'
 permalink: /2015/09/reflecting-on-hands-on-labs-at-vmworld-2015/
 categories:
@@ -55,5 +56,3 @@ That’s all for now – we’ll see some of you in a few weeks at VMworld in Ba
 Now if you’ll excuse me, my grill is hot and these rib-eyes are calling my name. Paired with a 2011 Miner Oakville Cabernet, I don’t think I can wait much longer.
 
 [![Miner_Oakville_2011_Cab_And_Rib_Eyes](/vaficionado/assets/images/2015/09/Miner_Oakville_2011_Cab_And_Rib_Eyes-1024x768.jpg)](/vaficionado/assets/images/2015/09/Miner_Oakville_2011_Cab_And_Rib_Eyes.jpg)
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Reflecting+on+Hands-On+Labs+at+VMworld+2015)</div></div>

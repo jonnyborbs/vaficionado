@@ -4,6 +4,7 @@ title: 'vRA 7 &#8211; Editing Machine Blueprint Settings'
 date: '2016-01-28T12:30:46-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=282'
 permalink: /2016/01/vra-7-editing-machine-blueprint-settings/
 categories:
@@ -38,5 +39,3 @@ This post was brought to you by the St. Supery 2009 Dollarhide Petit Verdot. Dar
 [![2009_Petit_Verdot](/vaficionado/assets/images/2016/01/2009_Petit_Verdot-1024x768.jpg)](/vaficionado/assets/images/2016/01/2009_Petit_Verdot.jpg)
 
 Happy automating!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=vRA+7+-+Editing+Machine+Blueprint+Settings)</div></div>

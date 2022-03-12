@@ -4,6 +4,7 @@ title: 'What&#8217;s in the bag?'
 date: '2016-11-11T11:28:59-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=454'
 permalink: /2016/11/whats-in-the-bag/
 categories:
@@ -70,5 +71,3 @@ That’s pretty much it! Thanks again to Michael (follow him [@mwVme](https://tw
 ![SaisonDupontBrewersGold](/vaficionado/assets/images/2016/11/SaisonDupontBrewersGold.jpg)
 
 And, of course – this post was brought to you by Saison Dupont’s Cuvee Dry Hopping series. A unique yearly spin on the classic Belgian Farmhouse that allows the brewer to experiment with dry hopping. This year’s version used Brewer’s Gold hops and came out delicious – sweet and bitter with that famous Saison Dupont brettanomyces tang.
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=What%27s+in+the+bag%3F)</div></div>

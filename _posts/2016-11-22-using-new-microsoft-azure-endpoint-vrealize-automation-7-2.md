@@ -4,6 +4,7 @@ title: 'Using the new Microsoft Azure Endpoint in vRealize Automation 7.2'
 date: '2016-11-22T04:10:03-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=469'
 permalink: /2016/11/using-new-microsoft-azure-endpoint-vrealize-automation-7-2/
 categories:
@@ -248,5 +249,3 @@ After the provisioning completes, you’ll be able to see your new Azure VM in v
 This post was brought to you courtesy of Southern Tier Brewing’s Pumking – possibly the only good pumpkin beer ever. It hits all the natural squash and spice notes without ever feeling extracted, artificial, or overwhelming. And it gets bonus points for being from my home town. Yum!
 
 I hope this guide has been helpful and that you’re as excited as I am about this great new addition to vRealize Automation’s repertoire. Please leave any feedback in the comments, and don’t forget to follow me on Twitter!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Using+the+new+Microsoft+Azure+Endpoint+in+vRealize+Automation+7.2)</div></div>

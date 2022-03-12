@@ -4,6 +4,7 @@ title: 'A new concept in wine-fueled Cloud mayhem'
 date: '2014-12-23T23:05:02-08:00'
 author: jon
 layout: post
+/vaficionado/assets/images/
 guid: 'http://vaficionado.com/?p=5'
 permalink: /2014/12/welcome-to-the-new-site/
 categories:
@@ -19,5 +20,3 @@ The overall idea here is to combine the two things I enjoy most – virtualizati
 I hope to assemble some useful info surrounding my specific area of expertise – which is VMware Cloud Management – and combine each post with some info about a particular wine, beer, vineyard, or concept. Maybe I’ll even throw some cheese in there, who knows.
 
 For the moment, this is just the beginning phases of the plan. Stay tuned for more info!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=A+new+concept+in+wine-fueled+Cloud+mayhem)</div></div>

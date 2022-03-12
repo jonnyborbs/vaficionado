@@ -4,6 +4,7 @@ title: 'Monitoring vRealize Automation with vRealize Operations and Hyperic'
 date: '2015-01-25T15:36:38-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=61'
 permalink: /2015/01/vrealize-operations-inventory-tree-for-vrealize-automation/
 categories:
@@ -100,5 +101,3 @@ The new vRealize Operations and vRealize Hyperic integration packs can be downlo
 Enjoy!
 
 You can also see this article cross-posted on the VMware Management Blog at https://blogs.vmware.com/management/2015/02/monitoring-vrealize-automation-vrealize-operations-vrealize-hyperic.html
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Monitoring+vRealize+Automation+with+vRealize+Operations+and+Hyperic)</div></div>

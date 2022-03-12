@@ -4,6 +4,7 @@ title: 'An Elephant Named Multitenancy &#8211; Multitenancy in vRealize Automati
 date: '2016-02-10T09:41:50-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=293'
 permalink: /2016/02/an-elephant-named-multitenancy-multitenancy-in-vrealize-automation/
 categories:
@@ -78,5 +79,3 @@ Please feel free to leave any feedback you might have in the comments by clickin
 And of course… This post was brought to you by Brewmaster Jack’s Garden of Grass American IPA. This fantastic fresh hop beer sports a rare and “experimental” hop varietal known as HBC 452, which imparts a great and juicy watermelon flavor that mixes with the distinct piney-ness of Simcoe hops.
 
 Happy Automating!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=An+Elephant+Named+Multitenancy+-+Multitenancy+in+vRealize+Automation)</div></div>

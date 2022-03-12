@@ -4,6 +4,7 @@ title: 'Deploying vRealize Automation Workloads from Apple Watch'
 date: '2015-04-25T14:57:04-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=197'
 permalink: /2015/04/deploying-vrealize-automation-workloads-from-apple-watch/
 categories:
@@ -65,5 +66,3 @@ The details of the deployment come up in the vRA-Deploy.log file…
 And voila! I’ve just provisioned a VM from my watch. The future is now, people.
 
 Edit: 4/26/2015 – I just realized that the step of handing off the workflow from the Watch to the iPhone was unnecessary. The Watch can execute the SSH commands directly without the added handoff. I’ve updated the screenshots and the text accordingly. Cool!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Deploying+vRealize+Automation+Workloads+from+Apple+Watch)</div></div>

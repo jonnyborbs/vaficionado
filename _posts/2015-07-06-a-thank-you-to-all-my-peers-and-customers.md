@@ -4,6 +4,7 @@ title: 'A thank you to all my peers and customers'
 date: '2015-07-06T09:31:00-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=222'
 permalink: /2015/07/a-thank-you-to-all-my-peers-and-customers/
 categories:
@@ -25,5 +26,3 @@ I’m also reminded that none of this would have been possible without all the g
 Of course, it wouldn’t be a complete post without some kind of celebratory beverage. This photo was taken at a local establishment just a few minutes after I received the good news. Track Seven’s Panic IPA is a stellar brew, made with Amarillo and Simcoe hops front and center, rather than the more common Citra and Cascade varieties. The result is a high-hop flavor (70 IBU) without the face-shredding pucker factor. Lots of citrus and floral notes explode with every sip. Don’t let the can fool you, this is a top-shelf local craft beer. Check out [Track Seven ](https://track7brewing.com/)next time you visit me in Sacramento!
 
 Cheers, and thanks again.
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=A+thank+you+to+all+my+peers+and+customers)</div></div>

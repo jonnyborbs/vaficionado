@@ -4,6 +4,7 @@ title: 'Creating DISA STIG Scorecards with vCM'
 date: '2015-01-07T16:52:58-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=34'
 permalink: /2015/01/creating-disa-stig-scorecards-with-vcm/
 categories:
@@ -131,5 +132,3 @@ Of course, you must be sure to be aware that every audit is different and you sh
 Tip: Much of what we just did can be scheduled inside of vCM. This removes a LOT of the manual work.
 
 I hope this guide has been useful to you.
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Creating+DISA+STIG+Scorecards+with+vCM)</div></div>

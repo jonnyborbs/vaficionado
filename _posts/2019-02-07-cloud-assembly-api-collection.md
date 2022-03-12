@@ -4,6 +4,7 @@ title: 'Cloud Assembly API Collection'
 date: '2019-02-07T10:21:21-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=567'
 permalink: /2019/02/cloud-assembly-api-collection/
 categories:
@@ -39,5 +40,3 @@ This message has been brought to you by a delicious Single Malt Miyagikyo I rece
 ![miyakikyo whisky](/vaficionado/assets/images/2019/02/IMG_7599-768x1024.jpeg)
 
 Cheers!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Cloud+Assembly+API+Collection)</div></div>

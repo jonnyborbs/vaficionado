@@ -119,5 +119,3 @@ To learn more about Terraform Cloud Agents, you can visit the documentation page
 And, of course, it wouldn’t be right to end without some kind of adult beverage – so today’s post is brought to you by [Urban Roots Brewing](https://www.urbanrootsbrewing.com/)‘s Floofster – an adorable German-style Hefeweizen with the name I can’t stop saying. Prost!
 
 ![urban roots brewing's floofster](/vaficionado/assets/images/2020/08/urban-roots-floofster-768x1024.jpeg)
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Terraform+Cloud+Agents)</div></div>

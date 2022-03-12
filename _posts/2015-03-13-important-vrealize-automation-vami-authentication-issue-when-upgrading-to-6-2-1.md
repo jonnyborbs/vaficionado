@@ -4,6 +4,7 @@ title: 'Important &#8211; vRealize Automation VAMI authentication issue when upg
 date: '2015-03-13T11:05:54-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=101'
 permalink: /2015/03/important-vrealize-automation-vami-authentication-issue-when-upgrading-to-6-2-1/
 categories:
@@ -29,5 +30,3 @@ Alternatively, you could change the root password to reset the expiration.
 Sorry, no wine content on this one – it’s WAY too early. This message pairs nicely with a cup of coffee.
 
 Happy automating!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Important+-+vRealize+Automation+VAMI+authentication+issue+when+upgrading+to+6.2.1)</div></div>

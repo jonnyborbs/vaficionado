@@ -4,6 +4,7 @@ title: 'vRA Live! &#8211; Session 2 &#8211; Extensibility'
 date: '2015-04-06T12:52:44-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=187'
 permalink: /2015/04/vra-live-session-2-extensibility/
 categories:
@@ -24,5 +25,3 @@ The vRA Live sessions are meant to provide a live and real-time demonstration of
 Be sure to register in advance over at Jad’s blog (<https://www.virtualjad.com/2015/04/vra-live-session-2-extensibility.html>) – and we’ll see you there!
 
 \#vralive
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=vRA+Live%21+-+Session+2+-+Extensibility)</div></div>

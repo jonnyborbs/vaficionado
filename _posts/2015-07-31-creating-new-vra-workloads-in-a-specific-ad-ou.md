@@ -4,6 +4,7 @@ title: 'Creating new vRA Workloads in a specific AD OU'
 date: '2015-07-31T10:45:21-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=238'
 permalink: /2015/07/creating-new-vra-workloads-in-a-specific-ad-ou/
 categories:
@@ -92,7 +93,3 @@ Now, this example workflow is a very quick demonstration of concept. It doesn’
 Today’s spicy orchestration experience was brought to you by the Habanero Mojito at [Havana, Walnut Creek](https://havanarestaurant.net/main/). [![Jon_Kate_Havana](/vaficionado/assets/images/2015/07/IMG_5723-e1438365368866-300x225.jpg)](/vaficionado/assets/images/2015/07/IMG_5723-e1438365368866.jpg)
 
 I hope this post has been useful.
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><span style="color: #ffffff;">Creating new vRA Workloads in a specific AD OU</span>
-
-<div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Creating+new+vRA+Workloads+in+a+specific+AD+OU)</div></div>

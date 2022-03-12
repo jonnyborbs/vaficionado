@@ -4,6 +4,7 @@ title: 'vRealize Automation 7 Management Pack for vRealize Operations'
 date: '2016-03-03T17:58:26-08:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=405'
 permalink: /2016/03/vrealize-automation-7-management-pack-for-vrealize-operations/
 categories:
@@ -176,5 +177,3 @@ This post was brought to you by New Helvetia Brewing Company’s Mystery Airship
 ![New_Helvetia_Ginger_Elizabeth_Porter](/vaficionado/assets/images/2016/03/New_Helvetia_Ginger_Elizabeth_Porter-768x1024.jpg)
 
 Happy Automating!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=vRealize+Automation+7+Management+Pack+for+vRealize+Operations)</div></div>

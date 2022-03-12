@@ -4,6 +4,7 @@ title: 'Have you taken a VMware Hands-On Lab lately?'
 date: '2015-07-07T14:04:46-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=226'
 permalink: /2015/07/have-you-taken-a-vmware-hands-on-lab-lately/
 categories:
@@ -37,5 +38,3 @@ So head on over to the [portal](https://labs.hol.vmware.com/) and register, foll
 Did I mention that the Labs are **completely free**? I think I might have.
 
 [![VMware_Hands_On_Labs_Logo](/vaficionado/assets/images/2015/07/vLNaM_rl-300x300.png)](/vaficionado/assets/images/2015/07/vLNaM_rl.png)
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Have+you+taken+a+VMware+Hands-On+Lab+lately%3F)</div></div>

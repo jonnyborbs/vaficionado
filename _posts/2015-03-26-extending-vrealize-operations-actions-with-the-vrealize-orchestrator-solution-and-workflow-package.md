@@ -4,6 +4,7 @@ title: 'Extending vRealize Operations Actions with the vRealize Orchestrator Sol
 date: '2015-03-26T08:54:00-07:00'
 author: jon
 layout: post
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://www.vaficionado.com/?p=109'
 permalink: /2015/03/extending-vrealize-operations-actions-with-the-vrealize-orchestrator-solution-and-workflow-package/
 categories:
@@ -122,5 +123,3 @@ Since it’s not even 9am yet, today’s post will be brought to you by the Zest
 [![Bacon_Bloody_Mary_Boon_Fly_Cafe](/vaficionado/assets/images/2015/03/Bacon_Bloody_Mary_Boon_Fly_Cafe-546x1024.jpg)](/vaficionado/assets/images/2015/03/Bacon_Bloody_Mary_Boon_Fly_Cafe.jpg)
 
 I hope this guide has proved useful and that you have a chance to head out to [Boon Fly](https://www.boonflycafe.com/) and try their delicious concoctions.
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=Extending+vRealize+Operations+Actions+with+the+vRealize+Orchestrator+Solution+and+Workflow+Package)</div></div>
