@@ -28,6 +28,4 @@ What little free time I have is spent traveling the world with my partner, explo
 
 The opinions expressed on this site are solely mine and not those of my employer.
 
-For more info, check out my [LinkedIn profile](https://www.linkedin.com/in/jon-schulman-vaficionado). Thanks for visiting!
-
-<div class="twttr_buttons"><div class="twttr_followme"> [Follow me](https://twitter.com/@vaficionado) </div></div><div class="twttr_buttons"><div class="twttr_twitter"> [Tweet](http://twitter.com/share?text=About+Me) </div></div>
+For more info, check out my [LinkedIn profile](https://www.linkedin.com/in/jon-schulman). Thanks for visiting!
