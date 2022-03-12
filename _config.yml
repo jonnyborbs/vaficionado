@@ -1,5 +1,4 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
-
 lang: en-US
 title: vaficionado.com
 email:
@@ -14,10 +13,7 @@ twitter_username: jonnyborbs
 github_username: jonnyborbs
 logo: # path of site logo, e.g. "/vaficionado/assets/images/logo.png"
 search: true # true, false (default)
-search_full_content: false # true, false (default)
+search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
-algolia:
-  application_id: # YOUR_APPLICATION_ID
-  index_name: # YOUR_INDEX_NAME
-  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
+paginate: 5
+paginate_path: /page:num/
