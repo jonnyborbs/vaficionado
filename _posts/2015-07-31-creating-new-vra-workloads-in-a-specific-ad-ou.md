@@ -90,6 +90,8 @@ But if you check out your Active Directory, you should also see that the new OU 
 
 Now, this example workflow is a very quick demonstration of concept. It doesn’t have any error handling (and suffice it to say, should NOT be used in any production environments and is provided without support or warranty of any kind) – but it should show you how a seemingly complex task like this can be accomplished relatively easily. The logic in the workflow could easily be amended to remove the OU creation step. ASD and vRO Dynamic Types could be leveraged to provide the user a list of OUs to choose from, rather than a free-form textbox. The sky’s the limit when it comes to vRA extensibility!
 
-Today’s spicy orchestration experience was brought to you by the Habanero Mojito at [Havana, Walnut Creek](https://havanarestaurant.net/main/). [![Jon_Kate_Havana](/vaficionado/assets/images/2015/07/IMG_5723-e1438365368866-300x225.jpg)](/vaficionado/assets/images/2015/07/IMG_5723-e1438365368866.jpg)
+Today’s spicy orchestration experience was brought to you by the Habanero Mojito at [Havana, Walnut Creek](https://havanarestaurant.net/main/). 
+
+[![Jon_Kate_Havana](/vaficionado/assets/images/2015/07/IMG_5723-e1438365368866-300x225.jpg)](/vaficionado/assets/images/2015/07/IMG_5723-e1438365368866.jpg)
 
 I hope this post has been useful.
