@@ -8,12 +8,12 @@ baseurl: /vaficionado # the optional subpath of your site, e.g. "/blog"
 url: https://jonnyborbs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Jon
-  twitter: 
-  picture:
+  twitter: jonnyborbs
+  picture:  /assets/images/IMG_3198.jpg
 twitter_username: jonnyborbs
 github_username: jonnyborbs
 logo: # path of site logo, e.g. "/vaficionado/assets/images/logo.png"
-search: # true, false (default)
+search: true # true, false (default)
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
