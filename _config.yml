@@ -1,6 +1,6 @@
 remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 lang: en-US
-title: vaficionado | where the cloud meets the vines
+title: vaficionado
 description: where the cloud meets the vines
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: http://vaficionado.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
