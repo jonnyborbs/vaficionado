@@ -4,7 +4,7 @@ title: 'Terraform Cloud Agents'
 date: '2020-08-13T08:58:41-07:00'
 author: jon
 layout: post
-image: /vaficionado/assets/images/cropped-va-header.jpg
+image: /assets/images/cropped-va-header.jpg
 guid: 'https://www.vaficionado.com/?p=579'
 permalink: /2020/08/terraform-cloud-agents/
 categories:
