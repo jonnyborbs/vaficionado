@@ -11,7 +11,7 @@ author:
   picture:  /assets/images/IMG_3198.jpg
 twitter_username: jonnyborbs
 github_username: jonnyborbs
-logo: # path of site logo, e.g. "/vaficionado/assets/images/logo.png"
+logo: /assets/images/IMG_3198.jpg # path of site logo, e.g. "/vaficionado/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: # lunr (default), algolia
