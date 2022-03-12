@@ -26,7 +26,7 @@ There are a few tags you will need to change to make this work – I’ve includ
 
 Here’s a helpful screenshot of where you can find several of these parameters for your cluster nodes. Keep in mind that if you have a multi-tier deployment, you will need to customize the below config file for each node.
 
-[![vRealize_Operations_Manager_Cluster_Administration](/assets/images/2015/03/vRealize_Operations_Manager_Cluster_Administration.png)](/assets/images/2015/03/vRealize_Operations_Manager_Cluster_Administration.png)  
+[![vRealize_Operations_Manager_Cluster_Administration](/vaficionado/assets/images/2015/03/vRealize_Operations_Manager_Cluster_Administration.png)](/vaficionado/assets/images/2015/03/vRealize_Operations_Manager_Cluster_Administration.png)  
 (Click the image for a larger version)
 
 Here are the paramters that need to be changed:
@@ -229,20 +229,20 @@ See what I mean about complex? And speaking of which… (come on, you had to kno
 
 Today’s message has been brought to you by Talisman’s 2010 Adastra Vineyard Pinot Noir. The amazing folks at Talisman produce incredible small batch Pinot Noir from several vineyards across northern California. Their philosophy is to focus on the terroir of their fruit, so they produce every wine under precisely the same conditions – from crushing to aging to the oak in the barrels, everything is identical but the fruit itself. This allows the complexities afforded by each individual vineyard to really shine through. This is one of my favorites, with vanilla, dark fruit, spices and a nose that almost makes you forget to take a sip.
 
-[![Talisman_2010_Adastra](/assets/images/2015/03/Talisman_2010_Adastra-768x1024.jpg)](/assets/images/2015/03/Talisman_2010_Adastra.jpg)
+[![Talisman_2010_Adastra](/vaficionado/assets/images/2015/03/Talisman_2010_Adastra-768x1024.jpg)](/vaficionado/assets/images/2015/03/Talisman_2010_Adastra.jpg)
 
 Now. Once you’ve configured and restarted your Log Insight agents on the vRealize Operations Manager cluster nodes, all you have to do is import the Content Pack into Log Insight. It is available for direct download from the VMware Solution Exchange [here](https://solutionexchange.vmware.com/store/products/vrealize-operations-manager-content-pack-for-log-insight#.VRnJJUaM67Q), or you can install it directly from your Log Insight console by accessing the Content Pack Marketplace and selecting the **VMware – vR Ops 6.x** Content Pack.
 
-[![Content_Pack_Marketplace](/assets/images/2015/03/Content_Pack_Marketplace.png)](/assets/images/2015/03/Content_Pack_Marketplace.png)
+[![Content_Pack_Marketplace](/vaficionado/assets/images/2015/03/Content_Pack_Marketplace.png)](/vaficionado/assets/images/2015/03/Content_Pack_Marketplace.png)
 
 When that’s complete, you’re ready to start leveraging the 12 Dashboard Groups, 81 Dashboard Widgets, 18 Queries, 8 Alerts and 31 Extracted Fields that this content pack exposes to you. Check it out!
 
-[![Log_Insight_vRealize_Operations_Dashboards](/assets/images/2015/03/Log_Insight_vRealize_Operations_Dashboards-1024x455.png)](/assets/images/2015/03/Log_Insight_vRealize_Operations_Dashboards.png)  
+[![Log_Insight_vRealize_Operations_Dashboards](/vaficionado/assets/images/2015/03/Log_Insight_vRealize_Operations_Dashboards-1024x455.png)](/vaficionado/assets/images/2015/03/Log_Insight_vRealize_Operations_Dashboards.png)  
 (Click the image for a larger version)
 
 It’s also worth noting that if you had previously configured vROps 6.0.x to send its logs to Log Insight directly by editing the logger configuration, you should now **undo** this configuration. Leaving it in place will result in some logs being sent to Log Insight twice, and may even confuse the content pack.
 
-[![vRealize_Operations_Edit_Logger_Configuration](/assets/images/2015/03/vRealize_Operations_Edit_Logger_Configuration.png)](/assets/images/2015/03/vRealize_Operations_Edit_Logger_Configuration.png)
+[![vRealize_Operations_Edit_Logger_Configuration](/vaficionado/assets/images/2015/03/vRealize_Operations_Edit_Logger_Configuration.png)](/vaficionado/assets/images/2015/03/vRealize_Operations_Edit_Logger_Configuration.png)
 
 Cheers, and happy analyzing!
 

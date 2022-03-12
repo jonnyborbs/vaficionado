@@ -27,45 +27,45 @@ Have no fear, vIDM is here.
 
 Here you can see my account with the default configuration. My email address is set to **jon@corp.local**, but that just isn’t where I receive my email.
 
-![User_Account_Default_EMail](/assets/images/2016/02/User_Account_Default_EMail-1024x206.png)
+![User_Account_Default_EMail](/vaficionado/assets/images/2016/02/User_Account_Default_EMail-1024x206.png)
 
 Looking at my account inside of Active Directory, we can see that this address is set in the ‘E-mail’ field, which maps to the ‘**mail**‘ attribute in LDAP.
 
-![User_AD_Email](/assets/images/2016/02/User_AD_Email-767x1024.png)
+![User_AD_Email](/vaficionado/assets/images/2016/02/User_AD_Email-767x1024.png)
 
 But, if we look at the Attribute Editor, we can see that the LDAP ‘**otherMailbox**‘ attribute contains my preferred email address of ‘**jon@vaficionado.com**‘
 
-![User_AD_otherMailbox](/assets/images/2016/02/User_AD_otherMailbox-771x1024.png)
+![User_AD_otherMailbox](/vaficionado/assets/images/2016/02/User_AD_otherMailbox-771x1024.png)
 
 So, how can I change my vRA configuration to utilize that **otherMailbox** attribute instead? It’s very easy. Start by clicking on the **Administration** tab in vRA. Then select the **Directories** button on the left hand side and edit your **Active Directory** shown to the right.
 
-![Navigate_To_Directory_Configuration](/assets/images/2016/02/Navigate_To_Directory_Configuration-1024x362.png)
+![Navigate_To_Directory_Configuration](/vaficionado/assets/images/2016/02/Navigate_To_Directory_Configuration-1024x362.png)
 
 Next, you’ll be presented with the Active Directory settings page. Click on the **Sync Settings** button.
 
-![Sync_Settings](/assets/images/2016/02/Sync_Settings-1024x377.png)
+![Sync_Settings](/vaficionado/assets/images/2016/02/Sync_Settings-1024x377.png)
 
 Here you’ll see a whole host of advanced synchronization options that you can change. Click on the **Mapped Attributes** button at the top, then select the dropdown next to **email**. Select **Enter Custom Input…** from the menu.
 
-![Mapped_Attributes](/assets/images/2016/02/Mapped_Attributes-293x300.png)
+![Mapped_Attributes](/vaficionado/assets/images/2016/02/Mapped_Attributes-293x300.png)
 
 Now, enter the new Active Directory attribute name that you want to retrieve the email address from. In this example, the new attribute is named **otherMailbox**. Click **Save &amp; Sync** to save your settings and update the user accounts.
 
-![Enter_New_Attribute_Name](/assets/images/2016/02/Enter_New_Attribute_Name-1024x635.png)
+![Enter_New_Attribute_Name](/vaficionado/assets/images/2016/02/Enter_New_Attribute_Name-1024x635.png)
 
 You’ll now be given the opportunity to review the proposed changes once the sync is completed. You can see in this example, there are 4 AD accounts that will have their attribute mappings updated. Click **Sync Directory**.
 
-![Review_Sync_Settings](/assets/images/2016/02/Review_Sync_Settings-1024x620.png)
+![Review_Sync_Settings](/vaficionado/assets/images/2016/02/Review_Sync_Settings-1024x620.png)
 
 Once the sync is completed (this may take some time, depending on how many objects were being updated and the size of your AD, etc) go back to the **Administration &gt; Directory Users and Groups** view and find your user account again. You’ll notice that the email address has now been updated to reflect the contents of the preferred attribute.
 
-![Updated_EMail_Address](/assets/images/2016/02/Updated_EMail_Address-1024x248.png)
+![Updated_EMail_Address](/vaficionado/assets/images/2016/02/Updated_EMail_Address-1024x248.png)
 
 Pretty cool, huh?
 
 This post was brought to you by Terrapin Beer Co’s Poivre Potion, a very unique dry-hopped pink peppercorn Saison. I love the way the spicy and sweet notes of the peppercorns play off the bitterness of the hops and the farmhouse funk of the Saison yeast strains. Delicious and easy to drink.
 
-![Terrapin_Poivre_Potion](/assets/images/2016/02/Terrapin_Poivre_Potion-225x300.jpg)
+![Terrapin_Poivre_Potion](/vaficionado/assets/images/2016/02/Terrapin_Poivre_Potion-225x300.jpg)
 
 Happy automating!
 
