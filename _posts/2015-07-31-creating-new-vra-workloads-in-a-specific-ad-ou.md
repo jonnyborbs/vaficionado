@@ -24,7 +24,7 @@ This is a great question and a very important operational task to accomplish –
 
 It seems like most of these customers have a tendency to assume they are going to create the VM first, and relocate it to a new OU later. But there’s a much more streamlined way to do it. By binding a workflow to the IaaS BuildingMachine lifecycle stage, you can pre-stage the computer object in AD before it’s even provisioned. That way, when it first adds to the domain it will already be present in the correct OU. This also has the added benefit of ensuring all group policies are inherited right away, rather than requiring additional reboots.
 
-I’ve put together a quick example [here](https://www.vaficionado.com/?ddownload=242 "here") that should help you see how to do just this.
+I’ve put together a quick example [here](/vaficionado/assets/downloads/2015/01/Create-OU-and-Stage-Machine.workflow "here") that should help you see how to do just this.
 
 To use the example workflow attached above, you must already have your vRO instance registered with vRA and the extensibility customizations installed. We also assume that you have correctly configured the Active Directory plugin, and that the example vRA blueprint you will deploy has a vSphere Customization Specification attached which adds the VM to your AD domain.
 
