@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/reactorleak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://vaficionado.com
+  * I am reactorleak (https://keybase.io/reactorleak) on keybase.
+  * I have a public key with fingerprint 2D40 A75C D117 1923 0136  7312 67EA 7EDA 811D 9174
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010162473778adfc77c6fae05e2c9951a3a2a333afb0b1657a30b6d05a72876f642b0a",
+      "fingerprint": "2d40a75cd11719230136731267ea7eda811d9174",
+      "host": "keybase.io",
+      "key_id": "67ea7eda811d9174",
+      "kid": "010162473778adfc77c6fae05e2c9951a3a2a333afb0b1657a30b6d05a72876f642b0a",
+      "uid": "146c4736285d177be7e58a62c562b519",
+      "username": "reactorleak"
+    },
+    "merkle_root": {
+      "ctime": 1647111835,
+      "hash_meta": "ae36dc976dea97da5670c76295f3282500d9d0df825ccb3d530f36827bd4a8d8",
+      "seqno": 22066739
+    },
+    "revoke": {
+      "sig_ids": [
+        "4c6f89d6848c413f0dab819a4085ea242abda99353c5925b316d63e6b16c7eae0f"
+      ]
+    },
+    "service": {
+      "hostname": "vaficionado.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1647111902,
+  "expire_in": 157680000,
+  "prev": "a0f3b3e85624a88486fbdf54e0f64a4a3b90a6b37de03175802313f1de301367",
+  "seqno": 65,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMK7AnicrZNZaB1VGMdv2ptig0IhqUtLwY6CaYnpWeZsF4pdBNNiXqw04ML1bHMz
+vcvczExuW2PqQ7RP7UvBVCw00KhFUKFBLFhbJKTgFm0s1RsVoVoffIk0PpgYg56J
+FRF8dF5m+3//739+3zlTd6zOtbUsjt14S7eS5ZZPJocHc6pr7rshT0XmsFcY8sp2
+5WYrxiZpsRwar+ABCCBFPsOMcWkCzZimgbSAWKSFIFBiiSTGWAYKKEgJkxgoagCR
+DHFGA+ojBaTX5QVhrWTjehzWUmeLjA8kI9pAyKBAGEBMGYaIMiuZNZJDaARkvivs
+j5KswoVTMrHdYeS+uZfiSrz/0P/PuQdX7KBPtTOjiBMDGVOWWcIlRZpQpAgUmTCx
+cU1WrVPHVuo0iitWlr3hLq9q43LFFuMoSjO+Og0zFaQ+gxByTNwaZdJfrNpUumJp
+MTVaMGqsFMxIQhnQjCJBAow4IgAYYYAJ3KPWChuCQYApR0wZX3LDXZTEDtQir4AQ
+oI6qcBFi24jKNuuehCWHLvEKT3q+Q8KFodzn2oc4AEYqDoX0ASdWIh9JZaQQmGBN
+BCIKQ2oottTx0o67BYH39HDWLW6EesU8m9UtBg0ZhDqMatJE3TqqulT1OEojHVXc
+z/40rSeFjE16uJ6pD1pVvOVTVGHNuM3iKho2TpyFY+WU/8YmAOry7KF6GNtimCkI
+oxy4K+tjGxlHh0Vhy92EHBe3RhooExDfxaa+9CVWAkiqMDMWYMgIBwg7CNDYv3bj
+Pxypm1AqS87TwavJdDC23vDkB0/lcy1tuTWtq7JTlGtbu+7vs7X17G25Edu95YXN
+s5v6BmZbe7Yc7LvQfd9YScTn9M7f717cvevYa6fPT139dPHFN89XzvDk3u0PXf+s
+0NbR3KRPdo7OqFWPfr7tfXL82Or6tvvBT0d+6HzjRKFS/ura2/ua7Rsu1/dPnV1/
+5ZulkeVJ74mLx/Mbe4+0X3vv5sZT78xOzvIHpq/szPW+enRPoePDvgd/e7a9uePr
+ueuN/KkeMbUAF1p7qo8sXc5f2jv/c+ml5w7puavvrlk4um/68ZMdB06vu1GdGBo5
+MDax67ETZ565Z8/8r+PrX989/8fmzg3lLyc+2rvU8XG6cCex2/PTz98+Oj4gXhn/
+Yu1dv9S+ffjl3pvLozP7L+SaO77f+uNM80/je4Nz
+=dteh
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/reactorleak
+
+==================================================================
+
