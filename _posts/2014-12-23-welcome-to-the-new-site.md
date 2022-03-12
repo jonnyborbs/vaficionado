@@ -4,7 +4,7 @@ title: 'A new concept in wine-fueled Cloud mayhem'
 date: '2014-12-23T23:05:02-08:00'
 author: jon
 layout: post
-/vaficionado/assets/images/
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://vaficionado.com/?p=5'
 permalink: /2014/12/welcome-to-the-new-site/
 categories:

@@ -4,7 +4,7 @@ title: 'Perfect chance for a starting post'
 date: '2014-12-24T06:57:53-08:00'
 author: jon
 layout: post
-/vaficionado/assets/images/
+image: /assets/images/cropped-va-header.jpg
 guid: 'http://vaficionado.com/?p=14'
 permalink: /2014/12/perfect-chance-for-a-starting-post/
 categories:
