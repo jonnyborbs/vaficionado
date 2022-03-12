@@ -20,9 +20,6 @@ plugins: # previously gems
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
+  
 feed:
   path: atom.xml
-
-paginate: 5
-paginate_path: /page:num/
