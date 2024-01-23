@@ -1,2 +1,2 @@
 # vaficionado
-my legacy vmware-based tech blog @ vaficionado.com
+my legacy vmware-based tech blog @ reactorleak.net/vaficionado
